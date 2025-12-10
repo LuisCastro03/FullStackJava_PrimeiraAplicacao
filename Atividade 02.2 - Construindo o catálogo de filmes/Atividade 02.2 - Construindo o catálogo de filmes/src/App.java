@@ -5,9 +5,9 @@ public class App {
         int temperaturaCelsius = 20;
         double temperaturaFahrenheit = (temperaturaCelsius * 1.8) + 32;
 
-        int FahrenheitInt = (int) temperaturaFahrenheit;
+        int fahrenheitInt = (int) temperaturaFahrenheit;
 
-        System.out.println(FahrenheitInt);
+        System.out.println(fahrenheitInt);
 
     }
 }
@@ -23,5 +23,6 @@ acima, convertemos um valor do tipo double para int usando
 
 Escrevendo com minhas palavras, preciso criar uma variável
 diferente para quando eu quiser fazer o casting
+
 
 */
