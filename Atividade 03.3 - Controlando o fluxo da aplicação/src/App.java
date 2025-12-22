@@ -13,7 +13,7 @@ public class App {
         int chute = 0;
 
         while (tentativas < 5) {
-            System.out.print("Digite um número entre 0 e 10: ");
+            System.out.print("Digite um número entre 0 e 100: ");
             chute = leitura.nextInt();
             tentativas++;
 
@@ -62,6 +62,7 @@ para gerar números aleatórios.
 
 Enquanto o número de tentativas for menor que 5, o bloco de código
 dentro do while será executado repetidamente.
+
 
 
 */
