@@ -47,7 +47,9 @@ linha.
 1. Scanner leitura = new Scanner(System.in);
 
 Scanner: É uma classe usada para ler a entrada do usuário a partir
-do console. leitura: É o nome da variável que armazena o objeto
+do console.
+
+leitura: É o nome da variável que armazena o objeto
 Scanner;
 
 new Scanner(System.in): Cria uma nova instância do Scanner que
@@ -63,6 +65,5 @@ para gerar números aleatórios.
 Enquanto o número de tentativas for menor que 5, o bloco de código
 dentro do while será executado repetidamente.
 
-
-
 */
+
