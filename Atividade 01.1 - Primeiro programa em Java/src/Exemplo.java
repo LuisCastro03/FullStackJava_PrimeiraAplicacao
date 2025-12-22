@@ -18,7 +18,7 @@ public class Exemplo {
 
 /*
 
-No código comentado, não poderia ser imprimido no terminal por
+No código comentado, não poderia ser impresso no terminal por
 conta que a linha 5 não possui a palavra-chave "static" após o
 "public". A palavra-chave "static" serve para criar métodos ou
 variáveis que pertencem somenta a classe que está.
